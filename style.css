@@ -3,6 +3,8 @@ body {
 }
 .container {
     background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
 }
 p {
     width: 200px;
