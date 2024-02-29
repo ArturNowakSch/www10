@@ -1,7 +1,9 @@
 body {
+    background-color: blue;
+}
+.container {
     background-color: cadetblue;
 }
-
 p {
     width: 200px;
     height: 200px;
