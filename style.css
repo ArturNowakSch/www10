@@ -1,9 +1,14 @@
 body {
-    background-color: cadetblue;
+    background-color: blue;
 }
-
+.container {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-around;
+}
 p {
     width: 200px;
     height: 200px;
     background-color: aqua;
+    font-size: 3em;
 }
